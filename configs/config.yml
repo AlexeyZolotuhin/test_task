@@ -1,0 +1,5 @@
+mongo_config:
+  mongo_url: mongodb://<user>:<password>@mongodb:27017/
+  mongo_db: employees_info
+
+
